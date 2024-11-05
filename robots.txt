@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohajaapi.github.io/DCM/sitemap_index.txt
+Sitemap: https://ohajaapi.github.io/Nle/sitemap_index.txt
+Sitemap: https://ohajaapi.github.io/nRe/sitemap_index.txt
+Sitemap: https://ohajaapi.github.io/sPT/sitemap_index.txt
